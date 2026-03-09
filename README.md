@@ -84,7 +84,6 @@
 
 ## 🎒 Образование
 [<img src="/Certificate_RU.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Atamanenko-qa/Atamanenko-qa/refs/heads/main/Certificate_RU.png)
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
 
 <br>
 <br>
