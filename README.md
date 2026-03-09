@@ -83,14 +83,14 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
+[<img src="/Certificate_RU.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Atamanenko-qa/Atamanenko-qa/refs/heads/main/Certificate_RU.png)
 [<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:ya-d.ataman@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@dmitry_atamanenko)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
