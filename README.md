@@ -84,8 +84,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Certificate_RU.png" width="280px" hspace="10px" alt="Сертификат обучения">](https://raw.githubusercontent.com/Atamanenko-qa/Atamanenko-qa/refs/heads/main/Certificate_RUS.png)
-[<img src="/Certificate_RU.png" width="280px" hspace="10px" alt="Сертификат стажировки">](https://raw.githubusercontent.com/Atamanenko-qa/Atamanenko-qa/refs/heads/main/Auto_ae.png)
+[<img src="/Certificate_RUS.png" width="280px" hspace="10px" alt="Сертификат обучения">](https://raw.githubusercontent.com/Atamanenko-qa/Atamanenko-qa/refs/heads/main/Certificate_RUS.png)
+[<img src="/Auto_ae.png" width="280px" hspace="10px" alt="Сертификат стажировки">](https://raw.githubusercontent.com/Atamanenko-qa/Atamanenko-qa/refs/heads/main/Auto_ae.png)
 
 <br>
 <br>
